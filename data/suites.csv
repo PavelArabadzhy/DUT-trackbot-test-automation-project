@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 13 09:34:43 UTC 2024","Wed Mar 13 09:34:59 UTC 2024","16135","","student.test.ts","Test suite for Student service","","","GET list of lessons for each faculty, course and group (CURRENT and NEXT week)",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:31 UTC 2024","1146","","student.test.ts","Test suite for Student service","","","GET list of courses for each faculty",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:32 UTC 2024","2447","","student.test.ts","Test suite for Student service","","","GET list of groups for each faculty and course",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:31 UTC 2024","579","","student.test.ts","Test suite for Student service","","","GET list of faculties",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:30 UTC 2024","647","","teacher.test.ts","Test suite for Teacher service","","","GET list of departments",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:47 UTC 2024","17107","","teacher.test.ts","Test suite for Teacher service","","","GET list of lessons for each departments and teachers (CURRENT and NEXT week)",""
+"passed","Wed Mar 13 09:34:30 UTC 2024","Wed Mar 13 09:34:32 UTC 2024","1518","","teacher.test.ts","Test suite for Teacher service","","","GET list of teachers for each departments",""
